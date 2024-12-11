@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Invitation Test</title>
+</head>
+<body>
+    <h2>Group Invitation</h2>
+    <p>Group Name: French Learning Group</p>
+
+    <!-- Correct direct image link -->
+    <img src="https://drive.google.com/uc?id=1rFhVxy-FBvHuzfruY2ncyLbALiPuaShm" alt="Group Image" style="width:300px; height:auto;">
+    
+    <!-- Alternative option using Imgur or other hosting service -->
+    <!-- <img src="https://i.imgur.com/yourimage.png" alt="Group Image" style="width:300px; height:auto;"> -->
+</body>
+</html>
